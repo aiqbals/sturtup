@@ -74,6 +74,10 @@ a:hover {
     color: yellow;
     text-decoration: none;
 }
+.adisbale {
+    color: darkgrey;
+    cursor: not-allowed;
+}
 
 .push {
     margin-left: auto;
