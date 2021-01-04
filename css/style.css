@@ -101,13 +101,22 @@ a:hover {
 .cover {
     width: 30rem;
 }
-.contact{
+
+.card-block {
+    padding: 6rem;
+    position: absolute;
+    margin-top: 100px ;
     width: 100%;
     height: 50vh;
 }
-.cnt {
-    color: black;
+.form-group {
+    margin-bottom: 15px;
+    background: lightgray;
 }
+.form-group-btn {
+    margin-bottom: 15px;
+}
+
 
 .grid-wrapper {
     display: grid;
